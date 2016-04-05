@@ -1,0 +1,17 @@
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/annalizatorres/Unity/Text101/obj/Debug/Assembly-CSharp.dll
+/Users/annalizatorres/Unity/Text101/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/UnityEngine.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/UnityEditor.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Mono.Cecil.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Unity.DataContract.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/annalizatorres/Unity/Text101/Temp/bin/Debug/Mono.Cecil.Mdb.dll
